@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" modified="2023-05-27T10:51:48.486Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="vjgvSrGmbGAPs-L2gPhV" version="21.3.3" type="device">
+  <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
+    <mxGraphModel dx="4138" dy="1852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pLleah8m2edPRWdZClE2-4" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=163;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="-143" y="150" width="290" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="pLleah8m2edPRWdZClE2-5" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=60;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-203" y="410" width="410" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="pLleah8m2edPRWdZClE2-6" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=63.000000000000114;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="-266" y="520" width="536" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="pLleah8m2edPRWdZClE2-7" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=50;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-317" y="630" width="637" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pLleah8m2edPRWdZClE2-10" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=42;rotation=0;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="720" width="722" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pLleah8m2edPRWdZClE2-11" value="&lt;font color=&quot;#ffcccc&quot;&gt;Physiological needs&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="725" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pLleah8m2edPRWdZClE2-12" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font color=&quot;#ffcccc&quot; style=&quot;font-size: 16px;&quot;&gt;air, food, drink, shelter, clothing, warmth, sex, and sleep&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="755" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pLleah8m2edPRWdZClE2-16" value="Safety needs" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#FFCCCC;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="635" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pLleah8m2edPRWdZClE2-17" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffcccc&quot;&gt;social stability, property, health and wellbeing&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="675" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pLleah8m2edPRWdZClE2-19" value="Love and &lt;br&gt;belongingness" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#FFCCCC;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="535" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pLleah8m2edPRWdZClE2-20" value="&lt;p style=&quot;line-height: 85%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px; color: rgb(255, 204, 204); background-color: initial;&quot;&gt;friendship, intimacy, trust,&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffcccc&quot;&gt;&lt;div style=&quot;line-height: 85%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;acceptance, receiving&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;p&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-58.5" y="575" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pLleah8m2edPRWdZClE2-22" value="Love and &lt;br&gt;belongingness" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="425" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pLleah8m2edPRWdZClE2-26" value="Self-&lt;br&gt;actualization &lt;br&gt;needs" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="-88" y="250" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pLleah8m2edPRWdZClE2-27" value="&lt;p style=&quot;line-height: 85%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;self-fulfillment,&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;seeking personal growth,&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;and peak experiences.&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="-44.5" y="345" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pLleah8m2edPRWdZClE2-29" value="&lt;p style=&quot;line-height: 85%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#006600&quot;&gt;self-worth, accomplishment,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#006600&quot;&gt;and respect&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="-57" y="475" width="97" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pLleah8m2edPRWdZClE2-34" value="&lt;h1 style=&quot;box-sizing: inherit; margin: 0px; padding: 0px; border: 0px; font-family: Lato, sans-serif; font-size: 46px; line-height: 53px; text-transform: capitalize; color: rgb(40, 40, 40); text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;entry-title&quot;&gt;Maslow’s &lt;br&gt;Hierarchy &lt;br&gt;Of Needs&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;box-sizing: inherit; margin-top: 20px; color: rgb(40, 40, 40); font-family: Georgia; font-size: 17px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;gb-container gb-container-f875134c&quot;&gt;&lt;div style=&quot;box-sizing: inherit; font-size: 14px; margin: 0px; border-color: rgb(232, 237, 240);&quot; class=&quot;gb-container gb-container-8a25fc79 cc-meta inline-post-meta-area&quot;&gt;&lt;div style=&quot;box-sizing: inherit; padding: 0px; max-width: 1500px; margin-left: auto; margin-right: auto; display: flex; align-items: center;&quot; class=&quot;gb-inside-container&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="165" width="240" height="220" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
